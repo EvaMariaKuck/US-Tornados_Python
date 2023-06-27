@@ -2,7 +2,7 @@
 This case study was performed for educational purposes as a part of a Data Analytics Course. The goal was, among other things, to identify variables which could explain the number of injuries caused by tornados.
 
 ## Data Source
-This dataset was found on Kaggle: https://www.kaggle.com/datasets/danbraswell/us-tornado-dataset-1950-2021
+Thes dataset was found on Kaggle: https://www.kaggle.com/datasets/danbraswell/us-tornado-dataset-1950-2021
 It was derived from a dataset produced by the NOAA's Storm 
 Prediction Center. The primary changes made to create this dataset were the deletion of some 
 columns, change of some data types, and sorting by date.
