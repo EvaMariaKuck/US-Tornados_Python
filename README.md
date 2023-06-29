@@ -11,7 +11,7 @@ it was created by the Storm Prediction Center of the National Oceanic and Atmosp
 Administration (NOAA), a US government agency. 
 The United States JSON file was downloaded from: https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/6.3/us-states.json
 
-Here you can find my Tableau storyboard: https://public.tableau.com/app/profile/eva.maria.kuck/viz/USTornados-FinalReport/RelationshipbetweenFatalitiesandInjuries?publish=yes
+Here you can find my Tableau storyboard: https://public.tableau.com/app/profile/eva.maria.kuck/viz/USTornados-FinalReport/USTornados?publish=yes
 Note that this storyboard doesn’t contain every analytical step I took, but only those relevant to the final results.
 
 
